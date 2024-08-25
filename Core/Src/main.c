@@ -61,6 +61,7 @@ static void MX_TIM2_Init(void);
 /* USER CODE BEGIN 0 */
 
 int ms = 0;
+int x = 0;
 
 /* USER CODE END 0 */
 
